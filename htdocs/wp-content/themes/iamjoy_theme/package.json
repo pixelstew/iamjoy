@@ -1,0 +1,16 @@
+{
+  "name": "iamjoy_theme",
+  "version": "1.0.0",
+  "description": "Theme for iamjoy.co.uk",
+  "main": "index.js",
+  "repository": "https://github.com/pixelstew/iamjoy",
+  "author": "r gilbert",
+  "license": "MIT",
+  "dependencies": {
+    "browsersync": "^0.0.1-security",
+    "gulp": "^3.9.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.9.1"
+  }
+}
